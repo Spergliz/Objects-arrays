@@ -35,20 +35,21 @@ function goBtnClicked() {
 // MENU FUNCTIONS
 function allColors() {
   for (let i = 0; i < colorData.length; i++) {
-    
     outputEl.innerHTML += `${colorData[i].name} ${colorData[i].hex} <br>`;
   }
 }
 
 function brightColors() {
-  for(let i =0; i< colorData.length; i++) {
-    outputEl.innerHTML += `Name:${colorData[i].name} <br> Brightness:${colorData[i].br } <br>`
+  for (let i = 0; i < colorData.length; i++) {
+    outputEl.innerHTML += `Name:${colorData[i].name} <br> Brightness:${colorData[i].br} <br>`;
   }
 }
 
 function redPinkFamilies() {
-  // Count Colors in Red/Pink Families
-  outputEl.innerHTML = "<h3>Count Red/Pink Family Colors</h3>";
+  for (let i = 0; i < colorData.length; i++) {
+    
+  }
+    outputEl.innerHTML = "<h3>Count Red/Pink Family Colors</h3>";
 }
 
 function familySearch() {
