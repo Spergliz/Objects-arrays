@@ -34,12 +34,14 @@ function goBtnClicked() {
 
 // MENU FUNCTIONS
 function allColors() {
-  // Display Name and Family of All Colors
-  outputEl.innerHTML = "<h3>Display All Colors</h3>";
+  for (let i = 0; i < colorData.length; i++) {
+    
+    outputEl.innerHTML += `${colorData[i].name} ${colorData[i].hex} <br>`;
+  }
 }
 
 function brightColors() {
-  // Display Name and Brightness of All Colors with a Brightness of 200 and Higher
+  
   outputEl.innerHTML = "<h3>Display Bright Colors</h3>";
 }
 

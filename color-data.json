@@ -6,7 +6,7 @@
       "r": 230,
       "g": 230,
       "b": 250,
-      "brightness": 231
+      "br": 231
     },
     {
       "name": "Thistle",
@@ -15,7 +15,7 @@
       "r": 216,
       "g": 191,
       "b": 216,
-      "brightness": 199
+      "br": 199
     },
     {
       "name": "Plum",
@@ -24,7 +24,7 @@
       "r": 221,
       "g": 160,
       "b": 221,
-      "brightness": 181
+      "br": 181
     },
     {
       "name": "Violet",
@@ -33,7 +33,7 @@
       "r": 238,
       "g": 130,
       "b": 238,
-      "brightness": 170
+      "br": 170
     },
     {
       "name": "Orchid",
@@ -42,7 +42,7 @@
       "r": 218,
       "g": 112,
       "b": 214,
-      "brightness": 152
+      "br": 152
     },
     {
       "name": "Fuchsia",
@@ -51,7 +51,7 @@
       "r": 255,
       "g": 0,
       "b": 255,
-      "brightness": 141
+      "br": 141
     },
     {
       "name": "Magenta",
@@ -60,7 +60,7 @@
       "r": 255,
       "g": 0,
       "b": 255,
-      "brightness": 141
+      "br": 141
     },
     {
       "name": "MediumOrchid",
@@ -69,7 +69,7 @@
       "r": 186,
       "g": 85,
       "b": 211,
-      "brightness": 127
+      "br": 127
     },
     {
       "name": "MediumPurple",
@@ -78,7 +78,7 @@
       "r": 147,
       "g": 112,
       "b": 219,
-      "brightness": 130
+      "br": 130
     },
     {
       "name": "BlueViolet",
@@ -87,7 +87,7 @@
       "r": 138,
       "g": 43,
       "b": 226,
-      "brightness": 96
+      "br": 96
     },
     {
       "name": "DarkViolet",
@@ -96,7 +96,7 @@
       "r": 148,
       "g": 0,
       "b": 211,
-      "brightness": 91
+      "br": 91
     },
     {
       "name": "DarkOrchid",
@@ -105,7 +105,7 @@
       "r": 153,
       "g": 50,
       "b": 204,
-      "brightness": 100
+      "br": 100
     },
     {
       "name": "DarkMagenta",
@@ -114,7 +114,7 @@
       "r": 139,
       "g": 0,
       "b": 139,
-      "brightness": 77
+      "br": 77
     },
     {
       "name": "Purple",
@@ -123,7 +123,7 @@
       "r": 128,
       "g": 0,
       "b": 128,
-      "brightness": 71
+      "br": 71
     },
     {
       "name": "Indigo",
@@ -132,7 +132,7 @@
       "r": 75,
       "g": 0,
       "b": 130,
-      "brightness": 50
+      "br": 50
     },
     {
       "name": "DarkSlateBlue",
@@ -141,7 +141,7 @@
       "r": 72,
       "g": 61,
       "b": 139,
-      "brightness": 71
+      "br": 71
     },
     {
       "name": "SlateBlue",
@@ -150,7 +150,7 @@
       "r": 106,
       "g": 90,
       "b": 205,
-      "brightness": 105
+      "br": 105
     },
     {
       "name": "MediumSlateBlue",
@@ -159,7 +159,7 @@
       "r": 123,
       "g": 104,
       "b": 238,
-      "brightness": 122
+      "br": 122
     },
     {
       "name": "Pink",
@@ -168,7 +168,7 @@
       "r": 255,
       "g": 192,
       "b": 203,
-      "brightness": 209
+      "br": 209
     },
     {
       "name": "LightPink",
@@ -177,7 +177,7 @@
       "r": 255,
       "g": 182,
       "b": 193,
-      "brightness": 202
+      "br": 202
     },
     {
       "name": "HotPink",
@@ -186,7 +186,7 @@
       "r": 255,
       "g": 105,
       "b": 180,
-      "brightness": 159
+      "br": 159
     },
     {
       "name": "DeepPink",
@@ -195,7 +195,7 @@
       "r": 255,
       "g": 20,
       "b": 147,
-      "brightness": 131
+      "br": 131
     },
     {
       "name": "PaleVioletRed",
@@ -204,7 +204,7 @@
       "r": 219,
       "g": 112,
       "b": 147,
-      "brightness": 147
+      "br": 147
     },
     {
       "name": "MediumVioletRed",
@@ -213,7 +213,7 @@
       "r": 199,
       "g": 21,
       "b": 133,
-      "brightness": 105
+      "br": 105
     },
     {
       "name": "LightSalmon",
@@ -222,7 +222,7 @@
       "r": 255,
       "g": 160,
       "b": 122,
-      "brightness": 185
+      "br": 185
     },
     {
       "name": "Salmon",
@@ -231,7 +231,7 @@
       "r": 250,
       "g": 128,
       "b": 114,
-      "brightness": 165
+      "br": 165
     },
     {
       "name": "DarkSalmon",
@@ -240,7 +240,7 @@
       "r": 233,
       "g": 150,
       "b": 122,
-      "brightness": 172
+      "br": 172
     },
     {
       "name": "LightCoral",
@@ -249,7 +249,7 @@
       "r": 240,
       "g": 128,
       "b": 128,
-      "brightness": 162
+      "br": 162
     },
     {
       "name": "IndianRed",
@@ -258,7 +258,7 @@
       "r": 205,
       "g": 92,
       "b": 92,
-      "brightness": 128
+      "br": 128
     },
     {
       "name": "Crimson",
@@ -267,7 +267,7 @@
       "r": 220,
       "g": 20,
       "b": 60,
-      "brightness": 110
+      "br": 110
     },
     {
       "name": "FireBrick",
@@ -276,7 +276,7 @@
       "r": 178,
       "g": 34,
       "b": 34,
-      "brightness": 92
+      "br": 92
     },
     {
       "name": "DarkRed",
@@ -285,7 +285,7 @@
       "r": 139,
       "g": 0,
       "b": 0,
-      "brightness": 68
+      "br": 68
     },
     {
       "name": "Red",
@@ -294,7 +294,7 @@
       "r": 255,
       "g": 0,
       "b": 0,
-      "brightness": 125
+      "br": 125
     },
     {
       "name": "OrangeRed",
@@ -303,7 +303,7 @@
       "r": 255,
       "g": 69,
       "b": 0,
-      "brightness": 137
+      "br": 137
     },
     {
       "name": "Tomato",
@@ -312,7 +312,7 @@
       "r": 255,
       "g": 99,
       "b": 71,
-      "brightness": 150
+      "br": 150
     },
     {
       "name": "Coral",
@@ -321,7 +321,7 @@
       "r": 255,
       "g": 127,
       "b": 80,
-      "brightness": 165
+      "br": 165
     },
     {
       "name": "DarkOrange",
@@ -330,7 +330,7 @@
       "r": 255,
       "g": 140,
       "b": 0,
-      "brightness": 170
+      "br": 170
     },
     {
       "name": "Orange",
@@ -339,7 +339,7 @@
       "r": 255,
       "g": 165,
       "b": 0,
-      "brightness": 185
+      "br": 185
     },
     {
       "name": "Yellow",
@@ -348,7 +348,7 @@
       "r": 255,
       "g": 255,
       "b": 0,
-      "brightness": 246
+      "br": 246
     },
     {
       "name": "LightYellow",
@@ -357,7 +357,7 @@
       "r": 255,
       "g": 255,
       "b": 224,
-      "brightness": 253
+      "br": 253
     },
     {
       "name": "LemonChiffon",
@@ -366,7 +366,7 @@
       "r": 255,
       "g": 250,
       "b": 205,
-      "brightness": 248
+      "br": 248
     },
     {
       "name": "LightGoldenrodYellow",
@@ -375,7 +375,7 @@
       "r": 250,
       "g": 250,
       "b": 210,
-      "brightness": 247
+      "br": 247
     },
     {
       "name": "PapayaWhip",
@@ -384,7 +384,7 @@
       "r": 255,
       "g": 239,
       "b": 213,
-      "brightness": 241
+      "br": 241
     },
     {
       "name": "Moccasin",
@@ -393,7 +393,7 @@
       "r": 255,
       "g": 228,
       "b": 181,
-      "brightness": 231
+      "br": 231
     },
     {
       "name": "PeachPuff",
@@ -402,7 +402,7 @@
       "r": 255,
       "g": 218,
       "b": 185,
-      "brightness": 225
+      "br": 225
     },
     {
       "name": "PaleGoldenrod",
@@ -411,7 +411,7 @@
       "r": 238,
       "g": 232,
       "b": 170,
-      "brightness": 229
+      "br": 229
     },
     {
       "name": "Khaki",
@@ -420,7 +420,7 @@
       "r": 240,
       "g": 230,
       "b": 140,
-      "brightness": 227
+      "br": 227
     },
     {
       "name": "DarkKhaki",
@@ -429,7 +429,7 @@
       "r": 189,
       "g": 183,
       "b": 107,
-      "brightness": 180
+      "br": 180
     },
     {
       "name": "Gold",
@@ -438,7 +438,7 @@
       "r": 255,
       "g": 215,
       "b": 0,
-      "brightness": 218
+      "br": 218
     },
     {
       "name": "Cornsilk",
@@ -447,7 +447,7 @@
       "r": 255,
       "g": 248,
       "b": 220,
-      "brightness": 247
+      "br": 247
     },
     {
       "name": "BlanchedAlmond",
@@ -456,7 +456,7 @@
       "r": 255,
       "g": 235,
       "b": 205,
-      "brightness": 238
+      "br": 238
     },
     {
       "name": "Bisque",
@@ -465,7 +465,7 @@
       "r": 255,
       "g": 228,
       "b": 196,
-      "brightness": 232
+      "br": 232
     },
     {
       "name": "NavajoWhite",
@@ -474,7 +474,7 @@
       "r": 255,
       "g": 222,
       "b": 173,
-      "brightness": 227
+      "br": 227
     },
     {
       "name": "Wheat",
@@ -483,7 +483,7 @@
       "r": 245,
       "g": 222,
       "b": 179,
-      "brightness": 225
+      "br": 225
     },
     {
       "name": "BurlyWood",
@@ -492,7 +492,7 @@
       "r": 222,
       "g": 184,
       "b": 135,
-      "brightness": 191
+      "br": 191
     },
     {
       "name": "Tan",
@@ -501,7 +501,7 @@
       "r": 210,
       "g": 180,
       "b": 140,
-      "brightness": 185
+      "br": 185
     },
     {
       "name": "RosyBrown",
@@ -510,7 +510,7 @@
       "r": 188,
       "g": 143,
       "b": 143,
-      "brightness": 155
+      "br": 155
     },
     {
       "name": "SandyBrown",
@@ -519,7 +519,7 @@
       "r": 244,
       "g": 164,
       "b": 96,
-      "brightness": 183
+      "br": 183
     },
     {
       "name": "Goldenrod",
@@ -528,7 +528,7 @@
       "r": 218,
       "g": 165,
       "b": 32,
-      "brightness": 174
+      "br": 174
     },
     {
       "name": "DarkGoldenrod",
@@ -537,7 +537,7 @@
       "r": 184,
       "g": 134,
       "b": 11,
-      "brightness": 143
+      "br": 143
     },
     {
       "name": "Peru",
@@ -546,7 +546,7 @@
       "r": 205,
       "g": 133,
       "b": 63,
-      "brightness": 150
+      "br": 150
     },
     {
       "name": "Chocolate",
@@ -555,7 +555,7 @@
       "r": 210,
       "g": 105,
       "b": 30,
-      "brightness": 135
+      "br": 135
     },
     {
       "name": "SaddleBrown",
@@ -564,7 +564,7 @@
       "r": 139,
       "g": 69,
       "b": 19,
-      "brightness": 89
+      "br": 89
     },
     {
       "name": "Sienna",
@@ -573,7 +573,7 @@
       "r": 160,
       "g": 82,
       "b": 45,
-      "brightness": 104
+      "br": 104
     },
     {
       "name": "Brown",
@@ -582,7 +582,7 @@
       "r": 165,
       "g": 42,
       "b": 42,
-      "brightness": 88
+      "br": 88
     },
     {
       "name": "Maroon",
@@ -591,7 +591,7 @@
       "r": 128,
       "g": 0,
       "b": 0,
-      "brightness": 62
+      "br": 62
     },
     {
       "name": "DarkOliveGreen",
@@ -600,7 +600,7 @@
       "r": 85,
       "g": 107,
       "b": 47,
-      "brightness": 99
+      "br": 99
     },
     {
       "name": "Olive",
@@ -609,7 +609,7 @@
       "r": 128,
       "g": 128,
       "b": 0,
-      "brightness": 123
+      "br": 123
     },
     {
       "name": "OliveDrab",
@@ -618,7 +618,7 @@
       "r": 107,
       "g": 142,
       "b": 35,
-      "brightness": 129
+      "br": 129
     },
     {
       "name": "YellowGreen",
@@ -627,7 +627,7 @@
       "r": 154,
       "g": 205,
       "b": 50,
-      "brightness": 186
+      "br": 186
     },
     {
       "name": "LimeGreen",
@@ -636,7 +636,7 @@
       "r": 50,
       "g": 205,
       "b": 50,
-      "brightness": 172
+      "br": 172
     },
     {
       "name": "Lime",
@@ -645,7 +645,7 @@
       "r": 0,
       "g": 255,
       "b": 0,
-      "brightness": 211
+      "br": 211
     },
     {
       "name": "LawnGreen",
@@ -654,7 +654,7 @@
       "r": 124,
       "g": 252,
       "b": 0,
-      "brightness": 218
+      "br": 218
     },
     {
       "name": "Chartreuse",
@@ -663,7 +663,7 @@
       "r": 127,
       "g": 255,
       "b": 0,
-      "brightness": 220
+      "br": 220
     },
     {
       "name": "GreenYellow",
@@ -672,7 +672,7 @@
       "r": 173,
       "g": 255,
       "b": 47,
-      "brightness": 228
+      "br": 228
     },
     {
       "name": "SpringGreen",
@@ -681,7 +681,7 @@
       "r": 0,
       "g": 255,
       "b": 127,
-      "brightness": 214
+      "br": 214
     },
     {
       "name": "MediumSpringGreen",
@@ -690,7 +690,7 @@
       "r": 0,
       "g": 250,
       "b": 154,
-      "brightness": 211
+      "br": 211
     },
     {
       "name": "LightGreen",
@@ -699,7 +699,7 @@
       "r": 144,
       "g": 238,
       "b": 144,
-      "brightness": 213
+      "br": 213
     },
     {
       "name": "PaleGreen",
@@ -708,7 +708,7 @@
       "r": 152,
       "g": 251,
       "b": 152,
-      "brightness": 225
+      "br": 225
     },
     {
       "name": "DarkSeaGreen",
@@ -717,7 +717,7 @@
       "r": 143,
       "g": 188,
       "b": 143,
-      "brightness": 175
+      "br": 175
     },
     {
       "name": "MediumSeaGreen",
@@ -726,7 +726,7 @@
       "r": 60,
       "g": 179,
       "b": 113,
-      "brightness": 154
+      "br": 154
     },
     {
       "name": "SeaGreen",
@@ -735,7 +735,7 @@
       "r": 46,
       "g": 139,
       "b": 87,
-      "brightness": 119
+      "br": 119
     },
     {
       "name": "ForestGreen",
@@ -744,7 +744,7 @@
       "r": 34,
       "g": 139,
       "b": 34,
-      "brightness": 117
+      "br": 117
     },
     {
       "name": "Green",
@@ -753,7 +753,7 @@
       "r": 0,
       "g": 128,
       "b": 0,
-      "brightness": 106
+      "br": 106
     },
     {
       "name": "DarkGreen",
@@ -762,7 +762,7 @@
       "r": 0,
       "g": 100,
       "b": 0,
-      "brightness": 83
+      "br": 83
     },
     {
       "name": "MediumAquamarine",
@@ -771,7 +771,7 @@
       "r": 102,
       "g": 205,
       "b": 170,
-      "brightness": 183
+      "br": 183
     },
     {
       "name": "Aqua",
@@ -780,7 +780,7 @@
       "r": 0,
       "g": 255,
       "b": 255,
-      "brightness": 222
+      "br": 222
     },
     {
       "name": "Cyan",
@@ -789,7 +789,7 @@
       "r": 0,
       "g": 255,
       "b": 255,
-      "brightness": 222
+      "br": 222
     },
     {
       "name": "LightCyan",
@@ -798,7 +798,7 @@
       "r": 224,
       "g": 255,
       "b": 255,
-      "brightness": 247
+      "br": 247
     },
     {
       "name": "PaleTurquoise",
@@ -807,7 +807,7 @@
       "r": 175,
       "g": 238,
       "b": 238,
-      "brightness": 224
+      "br": 224
     },
     {
       "name": "Aquamarine",
@@ -816,7 +816,7 @@
       "r": 127,
       "g": 255,
       "b": 212,
-      "brightness": 227
+      "br": 227
     },
     {
       "name": "Turquoise",
@@ -825,7 +825,7 @@
       "r": 64,
       "g": 224,
       "b": 208,
-      "brightness": 196
+      "br": 196
     },
     {
       "name": "MediumTurquoise",
@@ -834,7 +834,7 @@
       "r": 72,
       "g": 209,
       "b": 204,
-      "brightness": 185
+      "br": 185
     },
     {
       "name": "DarkTurquoise",
@@ -843,7 +843,7 @@
       "r": 0,
       "g": 206,
       "b": 209,
-      "brightness": 179
+      "br": 179
     },
     {
       "name": "LightSeaGreen",
@@ -852,7 +852,7 @@
       "r": 32,
       "g": 178,
       "b": 170,
-      "brightness": 155
+      "br": 155
     },
     {
       "name": "CadetBlue",
@@ -861,7 +861,7 @@
       "r": 95,
       "g": 158,
       "b": 160,
-      "brightness": 145
+      "br": 145
     },
     {
       "name": "DarkCyan",
@@ -870,7 +870,7 @@
       "r": 0,
       "g": 139,
       "b": 139,
-      "brightness": 121
+      "br": 121
     },
     {
       "name": "Teal",
@@ -879,7 +879,7 @@
       "r": 0,
       "g": 128,
       "b": 128,
-      "brightness": 111
+      "br": 111
     },
     {
       "name": "LightSteelBlue",
@@ -888,7 +888,7 @@
       "r": 176,
       "g": 196,
       "b": 222,
-      "brightness": 193
+      "br": 193
     },
     {
       "name": "PowderBlue",
@@ -897,7 +897,7 @@
       "r": 176,
       "g": 224,
       "b": 230,
-      "brightness": 213
+      "br": 213
     },
     {
       "name": "LightBlue",
@@ -906,7 +906,7 @@
       "r": 173,
       "g": 216,
       "b": 230,
-      "brightness": 207
+      "br": 207
     },
     {
       "name": "SkyBlue",
@@ -915,7 +915,7 @@
       "r": 135,
       "g": 206,
       "b": 235,
-      "brightness": 193
+      "br": 193
     },
     {
       "name": "LightSkyBlue",
@@ -924,7 +924,7 @@
       "r": 135,
       "g": 206,
       "b": 250,
-      "brightness": 194
+      "br": 194
     },
     {
       "name": "DeepSkyBlue",
@@ -933,7 +933,7 @@
       "r": 0,
       "g": 191,
       "b": 255,
-      "brightness": 172
+      "br": 172
     },
     {
       "name": "DodgerBlue",
@@ -942,7 +942,7 @@
       "r": 30,
       "g": 144,
       "b": 255,
-      "brightness": 137
+      "br": 137
     },
     {
       "name": "CornflowerBlue",
@@ -951,7 +951,7 @@
       "r": 100,
       "g": 149,
       "b": 237,
-      "brightness": 146
+      "br": 146
     },
     {
       "name": "SteelBlue",
@@ -960,7 +960,7 @@
       "r": 70,
       "g": 130,
       "b": 180,
-      "brightness": 122
+      "br": 122
     },
     {
       "name": "RoyalBlue",
@@ -969,7 +969,7 @@
       "r": 65,
       "g": 105,
       "b": 225,
-      "brightness": 109
+      "br": 109
     },
     {
       "name": "Blue",
@@ -978,7 +978,7 @@
       "r": 0,
       "g": 0,
       "b": 255,
-      "brightness": 66
+      "br": 66
     },
     {
       "name": "MediumBlue",
@@ -987,7 +987,7 @@
       "r": 0,
       "g": 0,
       "b": 205,
-      "brightness": 53
+      "br": 53
     },
     {
       "name": "DarkBlue",
@@ -996,7 +996,7 @@
       "r": 0,
       "g": 0,
       "b": 139,
-      "brightness": 36
+      "br": 36
     },
     {
       "name": "Navy",
@@ -1005,7 +1005,7 @@
       "r": 0,
       "g": 0,
       "b": 128,
-      "brightness": 33
+      "br": 33
     },
     {
       "name": "MidnightBlue",
@@ -1014,7 +1014,7 @@
       "r": 25,
       "g": 25,
       "b": 112,
-      "brightness": 37
+      "br": 37
     },
     {
       "name": "White",
@@ -1023,7 +1023,7 @@
       "r": 255,
       "g": 255,
       "b": 255,
-      "brightness": 255
+      "br": 255
     },
     {
       "name": "Snow",
@@ -1032,7 +1032,7 @@
       "r": 255,
       "g": 250,
       "b": 250,
-      "brightness": 251
+      "br": 251
     },
     {
       "name": "Honeydew",
@@ -1041,7 +1041,7 @@
       "r": 240,
       "g": 255,
       "b": 240,
-      "brightness": 250
+      "br": 250
     },
     {
       "name": "MintCream",
@@ -1050,7 +1050,7 @@
       "r": 245,
       "g": 255,
       "b": 250,
-      "brightness": 252
+      "br": 252
     },
     {
       "name": "Azure",
@@ -1059,7 +1059,7 @@
       "r": 240,
       "g": 255,
       "b": 255,
-      "brightness": 251
+      "br": 251
     },
     {
       "name": "AliceBlue",
@@ -1068,7 +1068,7 @@
       "r": 240,
       "g": 248,
       "b": 255,
-      "brightness": 246
+      "br": 246
     },
     {
       "name": "GhostWhite",
@@ -1077,7 +1077,7 @@
       "r": 248,
       "g": 248,
       "b": 255,
-      "brightness": 248
+      "br": 248
     },
     {
       "name": "WhiteSmoke",
@@ -1086,7 +1086,7 @@
       "r": 245,
       "g": 245,
       "b": 245,
-      "brightness": 244
+      "br": 244
     },
     {
       "name": "Seashell",
@@ -1095,7 +1095,7 @@
       "r": 255,
       "g": 245,
       "b": 238,
-      "brightness": 246
+      "br": 246
     },
     {
       "name": "Beige",
@@ -1104,7 +1104,7 @@
       "r": 245,
       "g": 245,
       "b": 220,
-      "brightness": 243
+      "br": 243
     },
     {
       "name": "OldLace",
@@ -1113,7 +1113,7 @@
       "r": 253,
       "g": 245,
       "b": 230,
-      "brightness": 245
+      "br": 245
     },
     {
       "name": "FloralWhite",
@@ -1122,7 +1122,7 @@
       "r": 255,
       "g": 250,
       "b": 240,
-      "brightness": 250
+      "br": 250
     },
     {
       "name": "Ivory",
@@ -1131,7 +1131,7 @@
       "r": 255,
       "g": 255,
       "b": 240,
-      "brightness": 254
+      "br": 254
     },
     {
       "name": "AntiqueWhite",
@@ -1140,7 +1140,7 @@
       "r": 250,
       "g": 235,
       "b": 215,
-      "brightness": 237
+      "br": 237
     },
     {
       "name": "Linen",
@@ -1149,7 +1149,7 @@
       "r": 250,
       "g": 240,
       "b": 230,
-      "brightness": 241
+      "br": 241
     },
     {
       "name": "LavenderBlush",
@@ -1158,7 +1158,7 @@
       "r": 255,
       "g": 240,
       "b": 245,
-      "brightness": 244
+      "br": 244
     },
     {
       "name": "MistyRose",
@@ -1167,7 +1167,7 @@
       "r": 255,
       "g": 228,
       "b": 225,
-      "brightness": 234
+      "br": 234
     },
     {
       "name": "Gainsboro",
@@ -1176,7 +1176,7 @@
       "r": 220,
       "g": 220,
       "b": 220,
-      "brightness": 219
+      "br": 219
     },
     {
       "name": "LightGray",
@@ -1185,7 +1185,7 @@
       "r": 211,
       "g": 211,
       "b": 211,
-      "brightness": 211
+      "br": 211
     },
     {
       "name": "Silver",
@@ -1194,7 +1194,7 @@
       "r": 192,
       "g": 192,
       "b": 192,
-      "brightness": 192
+      "br": 192
     },
     {
       "name": "DarkGray",
@@ -1203,7 +1203,7 @@
       "r": 169,
       "g": 169,
       "b": 169,
-      "brightness": 169
+      "br": 169
     },
     {
       "name": "Gray",
@@ -1212,7 +1212,7 @@
       "r": 128,
       "g": 128,
       "b": 128,
-      "brightness": 128
+      "br": 128
     },
     {
       "name": "DimGray",
@@ -1221,7 +1221,7 @@
       "r": 105,
       "g": 105,
       "b": 105,
-      "brightness": 105
+      "br": 105
     },
     {
       "name": "LightSlateGray",
@@ -1230,7 +1230,7 @@
       "r": 119,
       "g": 136,
       "b": 153,
-      "brightness": 133
+      "br": 133
     },
     {
       "name": "SlateGray",
@@ -1239,7 +1239,7 @@
       "r": 112,
       "g": 128,
       "b": 144,
-      "brightness": 125
+      "br": 125
     },
     {
       "name": "DarkSlateGray",
@@ -1248,7 +1248,7 @@
       "r": 47,
       "g": 79,
       "b": 79,
-      "brightness": 72
+      "br": 72
     },
     {
       "name": "Black",
@@ -1257,6 +1257,6 @@
       "r": 0,
       "g": 0,
       "b": 0,
-      "brightness": 0
+      "br": 0
     }
   ]
