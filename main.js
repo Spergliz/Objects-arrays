@@ -41,8 +41,9 @@ function allColors() {
 }
 
 function brightColors() {
-  
-  outputEl.innerHTML = "<h3>Display Bright Colors</h3>";
+  for(let i =0; i< colorData.length; i++) {
+    outputEl.innerHTML += `Name:${colorData[i].name} <br> Brightness:${colorData[i].br } <br>`
+  }
 }
 
 function redPinkFamilies() {
