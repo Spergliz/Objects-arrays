@@ -47,8 +47,8 @@ function brightColors() {
 
 function redPinkFamilies() {
   for (let i = 0; i < colorData.length; i++) {
-    if (colorData.family==="red"||colorData.family==="pink") {
-      return outputEl.innerHTML 
+    if (colorData[i].family==="Red"||colorData[i].family==="Pink") {
+      outputEl.innerHTML += `${colorData[i].family}` 
     }
   }
   
