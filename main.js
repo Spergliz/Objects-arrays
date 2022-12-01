@@ -67,5 +67,5 @@ function familySearch() {
 }
 function startLetterSearch() {
  
-  outputEl.innerHTML = "<h3>Start Letter Search</h3>";
+  outputEl.innerHTML = "";
 }
