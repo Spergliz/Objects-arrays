@@ -13,6 +13,7 @@ fetch("color-data.json")
 // Event Listener on Go Button
 document.getElementById("go-btn").addEventListener("click", goBtnClicked);
 
+let color = 0;
 // Process Go Button Click
 function goBtnClicked() {
   // Get Menu Selection
@@ -47,16 +48,16 @@ function brightColors() {
 
 function redPinkFamilies() {
   for (let i = 0; i < colorData.length; i++) {
-    if (colorData[i].family==="Red"||colorData[i].family==="Pink") {
-      let color= 0 
-      color++
+    if (colorData[i].family === "Red" || colorData[i].family === "Pink") {
+      
+      color++;
     }
   }
-  outputEl.innerHTML = `number${color}`
+  outputEl.innerHTML = `number of reds or pinks: ${color}`;
 }
 
 function familySearch() {
-  // Display Name and Family of all Colors that Match a User Provided Family Name. Also Output a Count of Colors Found.
+  prompt()
   outputEl.innerHTML = "<h3>Family Search</h3>";
 }
 
