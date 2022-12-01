@@ -52,7 +52,7 @@ function redPinkFamilies() {
       color++
     }
   }
-  
+  outputEl.innerHTML = `number${color}`
 }
 
 function familySearch() {
