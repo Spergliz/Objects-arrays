@@ -51,17 +51,21 @@ function redPinkFamilies() {
     if (colorData[i].family === "Red" || colorData[i].family === "Pink") {
       
       color++;
+      outputEl.innerHTML = `number of reds or pinks: ${color}`;
     }
   }
-  outputEl.innerHTML = `number of reds or pinks: ${color}`;
+  
 }
 
 function familySearch() {
-  prompt()
-  outputEl.innerHTML = "<h3>Family Search</h3>";
+  let A = prompt("Enter a Family colour (FIRST LETTER MUST BE CAPITAL)")
+  for (let i = 0; i < colorData.length; i++) {
+ if (colorData[i].family === A){
+  outputEl.innerHTML += `${colorData[i].name}<br>`;
 }
-
+}
+}
 function startLetterSearch() {
-  // Display Name of all Colors that Match a User Provided Starting Letter. Also Output a Count of Colors Found.
+ 
   outputEl.innerHTML = "<h3>Start Letter Search</h3>";
 }
