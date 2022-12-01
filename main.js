@@ -47,9 +47,9 @@ function brightColors() {
 
 function redPinkFamilies() {
   for (let i = 0; i < colorData.length; i++) {
-    
+    if ()
   }
-    outputEl.innerHTML = "<h3>Count Red/Pink Family Colors</h3>";
+  
 }
 
 function familySearch() {
