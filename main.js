@@ -2,6 +2,7 @@
 
 // HTML Variable for Output
 let outputEl = document.getElementById("output");
+let outputE2 = document.getElementById("output2");
 
 // Load Color Data
 let colorData;
@@ -36,36 +37,46 @@ function goBtnClicked() {
 // MENU FUNCTIONS
 function allColors() {
   for (let i = 0; i < colorData.length; i++) {
-    outputEl.innerHTML += `${colorData[i].name} ${colorData[i].hex} <br>`;
+    outputEl.innerHTML += `${colorData[i].name} ${colorData[i].family} <br>`;
   }
 }
 
 function brightColors() {
   for (let i = 0; i < colorData.length; i++) {
+    if (colorData[i].brightness >=200 ){
     outputEl.innerHTML += `Name:${colorData[i].name} <br> Brightness:${colorData[i].br} <br>`;
   }
+}
 }
 
 function redPinkFamilies() {
   for (let i = 0; i < colorData.length; i++) {
     if (colorData[i].family === "Red" || colorData[i].family === "Pink") {
-      
       color++;
       outputEl.innerHTML = `number of reds or pinks: ${color}`;
     }
   }
-  
 }
 
 function familySearch() {
-  let A = prompt("Enter a Family colour (FIRST LETTER MUST BE CAPITAL)")
+  let color = 0
+  let A = prompt("Enter a Family colour (FIRST LETTER MUST BE CAPITAL)");
   for (let i = 0; i < colorData.length; i++) {
- if (colorData[i].family === A){
-  outputEl.innerHTML += `${colorData[i].name}<br>`;
-}
-}
+    if (colorData[i].family === A) {
+      color++
+      outputEl.innerHTML += `${colorData[i].name}, ${colorData[i].family}<br>`;
+      outputE2.innerHTML = `number of colors and familys: ${color}`
+    }
+  }
 }
 function startLetterSearch() {
- 
-  outputEl.innerHTML = "";
+  let h = 0;
+  let A = prompt("Enter a Letter to find a colour");
+  for (let i = 0; i < colorData.length; i++) {
+    if (colorData[i].name[0] === A) {
+      h++
+      outputEl.innerHTML += `${colorData[i].name}<br>`;
+      outputE2.innerHTML = `number of colors: ${h}`
+    }
+  }
 }
